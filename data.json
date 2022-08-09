@@ -1,0 +1,100 @@
+{
+  "Header": {
+    "title": "WARUNG NAFFAILA",
+    "paragraph": "Warung makan harga terjangkau yang memiliki slogan Murah-Waras-Wareg"
+  },
+  "About": {
+    "paragraph": "Warung makan naffaila merupakan sebuah usaha  yang menyajikan hidangan kepada masyarakat umum, anak kos dan masih banyak lagi, menyediakan tempat untuk menikmati hidangan tersebut serta menetapkan tarif tertentu untuk makanan dan pelayanannya..",
+    "mengapa": [
+      "Harganya murah",
+      "Bebas memilih lauk",
+      "Banyak jenis minuman",
+      "berguna untuk anak kos"
+    ],
+    "Mengapa": [
+      
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Lele Goreng",
+      "largeImage": "img/makan/01-lerge.jpg",
+      "smallImage": "img/makan/01-small.jpg"
+    },
+    {
+      "title": "Ayam Goreng",
+      "largeImage": "img/makan/02-large.jpg",
+      "smallImage": "img/makan/02-small.jpg"
+    },
+    {
+      "title": "Ikan bawal",
+      "largeImage": "img/makan/03-large.jpg",
+      "smallImage": "img/makan/03-small.jpg"
+    },
+    {
+      "title": "Sambal goreng kentang",
+      "largeImage": "img/makan/04-large.jpg",
+      "smallImage": "img/makan/04-small.jpg"
+    },
+    {
+      "title": "Tempe Orek",
+      "largeImage": "img/makan/05-large.jpg",
+      "smallImage": "img/makan/05-small.jpg"
+    },
+    {
+      "title": "Telur Balado",
+      "largeImage": "img/makan/06-large.jpg",
+      "smallImage": "img/makan/06-small.jpg"
+    },
+    {
+      "title": "Taoge",
+      "largeImage": "img/makan/07-large.jpg",
+      "smallImage": "img/makan/07-small.jpg"
+    },
+    {
+      "title": "Tongkol sambal",
+      "largeImage": "img/makan/08-large.jpg",
+      "smallImage": "img/makan/08-small.jpg"
+    },
+    {
+      "title": "Oseng kikil",
+      "largeImage": "img/makan/09-large.jpg",
+      "smallImage": "img/makan/09-small.jpg"
+    }
+ ],
+  "Services": [
+    {
+      "icon": "fa fa-home",
+      "name": "Take Home",
+      "text": "Pada layanan ini berguna bagi pelanggan yang ingin makan di rumahnya masing-masing karena masih adanya covid-19."
+    },
+    {
+      "icon": "fa fa-cutlery",
+      "name": "Makan ditempat",
+      "text": "Pada layanan selanjutnya yaitu pelanggan yang ingin makan ditempat dan kami menyediakan tempat untuk pelanggan makan serta fasilitas yang sudah disediakan dirumah makan kami pun sudah lengkap"
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "Melalui Aplikasi atau Online",
+      "text": "Pada layanan Terakhir yaitu Pelanggan yang membeli makan secara online sehingga dapat memesan melalui aplikasi atau secara online sehingga tidak perlu kewarung lagi agar lebih mudah dalam membeli makanan yg diinginkan"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Ardian",
+      "job": "Pengelola Naffaila"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Yuli",
+      "job": "Pengelola Naffaila"
+    }
+    
+  ],
+  "Contact": {
+    "address": "Kruwet, Teluk, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53145",
+    "phone": "0896-9315-9258"    
+  }
+  
+}
